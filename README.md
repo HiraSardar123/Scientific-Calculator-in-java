@@ -21,6 +21,6 @@ Explore alternative calculation modes with the versatile "MODE" button.
 
 ## Key Operational Note:
 
-### To perform unary operations (like negative sign or percentage), press the number first, followed by the operator.
+### To perform unary operations (like sine or cosine ), press the number first, followed by the operator.
 ### For binary operations (like addition or multiplication), press the operator in between two numbers.
 With its robust capabilities and intuitive design, this scientific calculator is an invaluable tool for students, professionals, and anyone seeking a reliable mathematical companion.
