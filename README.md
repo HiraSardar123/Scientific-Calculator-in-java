@@ -17,7 +17,6 @@ Convert percentages with ease using the convenient "%" button.
 Visualize your calculations clearly on the expansive, multi-line display showcasing up to 10 digits.
 Correct minor errors swiftly with the dedicated "DEL" button.
 Navigate between positive and negative values instantly with the "+/-" button.
-Explore alternative calculation modes with the versatile "MODE" button.
 
 ## Key Operational Note:
 
